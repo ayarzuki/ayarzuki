@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayarzuki
 - 👀 I’m interested in Website Development and AI
-- 🌱 I’m currently learning Golang-Backend Development and Devops
+- 🌱 I’m currently learning Backend Development, Blockchain, and Devops
 - 💞️ I’m looking to collaborate on Web Scraping and Web Development
 - 📫 How to reach me through email: aulya.yarzuki@gmail.com
 
